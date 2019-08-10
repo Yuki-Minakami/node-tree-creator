@@ -1,0 +1,15 @@
+{
+  "name": "node-tree-creator",
+  "version": "0.0.1",
+  "description": "A library to create multi types of Trees.",
+  "main": "tree.js",
+  "scripts": {
+    "test": "node ./tree.spec.js"
+  },
+  "keywords": [
+    "tree",
+    "BST"
+  ],
+  "author": "likaiboy",
+  "license": "ISC"
+}
